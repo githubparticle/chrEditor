@@ -46,11 +46,10 @@ and so on...).
 
 ## Licence
 
-![GPLv3 License](http://img.shields.io/badge/license-GPLv3-blue.svg)][license]
+[![GPLv3 License](http://img.shields.io/badge/license-GPLv3-blue.svg)][license]
 
 [license]: https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE
 
 ## Author
 
 ![Yoshiharu Kawai](https://github.com/landm2000)
-/badge/dynamic/<TYPE>.svg?uri=<URI>&label=<LABEL>&query=<$.DATA.SUBDATA>&colorB=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
