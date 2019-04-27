@@ -1,0 +1,6 @@
+# chreditor除外ファイル
+private/makedot
+private/resource/img
+src/dot.js
+src/index-test-modal.js
+node_modules/

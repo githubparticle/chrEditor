@@ -1,0 +1,52 @@
+$ mkdir chreditor
+$ cd chreditor
+
+kawai-no-iMac:chreditor kawaiyoshiharu$ npm init -y
+Wrote to /Volumes/Macintosh HD/Users/kawaiyoshiharu/BoxSync/src/react_project/chreditor/package.json:
+
+{
+  "name": "chreditor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+kawai-no-iMac:chreditor kawaiyoshiharu$ npm install react react-dom
+npm notice created a lockfile as package-lock.json. You should commit this file.
++ react@16.8.5
++ react-dom@16.8.5
+added 8 packages in 1.245s
+kawai-no-iMac:chreditor kawaiyoshiharu$ npm install webpack webpack-cli webpack-dev-server --save-dev
+
+> fsevents@1.2.7 install /Volumes/Macintosh HD/Users/kawaiyoshiharu/BoxSync/src/react_project/chreditor/node_modules/fsevents
+> node install
+
+node-pre-gyp WARN Using needle for node-pre-gyp https download 
+[fsevents] Success: "/Volumes/Macintosh HD/Users/kawaiyoshiharu/BoxSync/src/react_project/chreditor/node_modules/fsevents/lib/binding/Release/node-v57-darwin-x64/fse.node" is installed via remote
++ webpack-cli@3.3.0
++ webpack-dev-server@3.2.1
++ webpack@4.29.6
+added 596 packages in 32.592s
+kawai-no-iMac:chreditor kawaiyoshiharu$ npm install @babel/core @babel/preset-env @babel/preset-react --save-dev
++ @babel/core@7.4.0
++ @babel/preset-env@7.4.2
++ @babel/preset-react@7.0.0
+added 108 packages in 11.186s
+kawai-no-iMac:chreditor kawaiyoshiharu$ npm install eslint babel-eslint eslint-loader eslint-plugin-react --save-dev
++ eslint-loader@2.1.2
++ eslint-plugin-react@7.12.4
++ babel-eslint@10.0.1
++ eslint@5.15.3
+added 88 packages in 11.564s
+kawai-no-iMac:chreditor kawaiyoshiharu$ npm install css-loader style-loader babel-loader --save-dev
++ style-loader@0.23.1
++ babel-loader@8.0.5
++ css-loader@2.1.1
+added 19 packages in 5.482s

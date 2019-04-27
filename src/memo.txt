@@ -1,0 +1,11 @@
+index.htmlから削除
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+
+package.jsonファイルから削除
+  "scripts": {
+    "start": "webpack-dev-server",←この行を変更
+    "webpack": "webpack -d"←この行を削除
+  },
