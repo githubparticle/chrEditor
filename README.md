@@ -15,7 +15,7 @@ and so on...).
 
 ## Demo
 
-![png](public/img/chrEditor_capture_01.png)
+![png](public/img/documents/chrEditor_capture_01.png)
 
 ## VS. 
 
@@ -26,8 +26,9 @@ and so on...).
 ## Requirement
 
 ![svg](https://img.shields.io/badge/npm-5.6.0-brightgreen.svg)
-![svg](https://img.shields.io/badge/React-16.8.5-orange.svg)
-![svg](https://img.shields.io/badge/Bootstrap-3.3.1-blue.svg)
+![svg](https://img.shields.io/badge/Node.js-8.9.4-orange.svg)
+![svg](https://img.shields.io/badge/React-16.8.5-blue.svg)
+![svg](https://img.shields.io/badge/Bootstrap-3.3.1-red.svg)
 ![svg](https://img.shields.io/badge/jQuery-1.12.4-yellow.svg)
 
 ## Usage
@@ -40,8 +41,8 @@ and so on...).
 
 ## Contribution
 
-1. I need 8bit free fonts (Make the fonts, please).
-1. I need 8bit free mario character (Make the free mario character, plese).
+1. I need a free font (Make an 8-bit font, please).
+1. I need a free character (Make an 8-bit free character like Mario, please).
 
 ## Licence
 
