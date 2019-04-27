@@ -2,7 +2,7 @@
 [![GitHub release](https://img.shields.io/github/release/landm2000/chrEditor.svg)][release]
 [![GPLv3 License](http://img.shields.io/badge/license-GPLv3-blue.svg)][license]
 
-[release]: !https://github.com/landm2000/chrEditor/releases  
+[release]: https://github.com/landm2000/chrEditor/releases  
 [license]: https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE
 
 Sprite Editor of NES(Nintendo Entertainment System) at Web
