@@ -166,8 +166,8 @@ export class DialogSaveComponent extends React.Component {
             c1 = c1 << 1;
             c2 = c2 << 1;
             var d = buff[i];
-            c1 += d & 1;
-            c2 += ((d>>1) & 1);
+            c2 += d & 1;
+            c1 += ((d>>1) & 1);
           } // for(var x=0;x<8;x++,i++)
           dv.setUint8(j,c1);
           dv.setUint8(j+8,c2);

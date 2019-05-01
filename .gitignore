@@ -1,6 +1,11 @@
 # chreditor除外ファイル
 private/makedot
+private/美咲フォント-ASCIIキャラ.png
+private/familybasic*
+private/hiragana-misaki-go.png
+private/chredit-familybasic.chr
 private/resource/img
 src/dot.js
 src/index-test-modal.js
 node_modules/
+node_modules.zip
