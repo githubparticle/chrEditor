@@ -38,6 +38,7 @@ and so on...).
 ## Install
 
     $ git clone https://github.com/landm2000/chrEditor [Enter]
+    $ cd chrEditor [Enter]
     $ npm install [Enter]
 
 ## Contribution
