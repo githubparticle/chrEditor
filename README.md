@@ -31,15 +31,18 @@ and so on...).
 ![svg](https://img.shields.io/badge/Bootstrap-3.3.1-red.svg)
 ![svg](https://img.shields.io/badge/jQuery-1.12.4-yellow.svg)
 
-## Usage
-
-    $ npm start [Enter]
-
 ## Install
 
     $ git clone https://github.com/landm2000/chrEditor [Enter]
     $ cd chrEditor [Enter]
     $ npm install [Enter]
+
+## Usage
+
+    1. Start the App.
+      $ npm start [Enter]
+    2. Access from the Web browser(Chrome or firefox).
+      http://localhost:8080/
 
 ## Contribution
 
