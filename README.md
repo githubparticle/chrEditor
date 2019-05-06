@@ -51,7 +51,7 @@ and so on...).
 
 [![Misaki gothic katakana](public/img/documents/misaki_gothic_ASCII_katakana.png)][misaki_gothic_katakana]
 
-[misaki_gothic_katakana]: https://github.com/public/data/misaki_gothic_katakana.chr
+[misaki_gothic_katakana]: https://github.com/landm2000/chrEditor/raw/master/public/data/misaki_gothic_katakana.chr
 
 ## Licence
 
