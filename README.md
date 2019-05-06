@@ -46,14 +46,18 @@ and so on...).
 
 ## Contribution
 
-1. ~~I need a free font (Make an 8-bit font, please).~~ ![png](public/img/documents/misaki_gothic_ASCII_katakana.png)
+1. ~~I need a free font (Make an 8-bit font, please).~~
 1. I need a free character (Make an 8-bit free character like Mario, please).
+
+[![Misaki gothic katakana](public/img/documents/misaki_gothic_ASCII_katakana.png)][misaki_gothic_katakana]
+
+[misaki_gothic_katakana]: https://github.com/public/data/misaki_gothic_katakana.chr
 
 ## Licence
 
-[![GPLv3 License](http://img.shields.io/badge/license-GPLv3-blue.svg)][license]
+[![GPLv3 License](http://img.shields.io/badge/license-GPLv3-blue.svg)][license2]
 
-[license]: https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE
+[license2]: https://raw.githubusercontent.com/landm2000/chrEditor/master/LICENSE
 
 ## Author
 
