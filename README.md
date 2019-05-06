@@ -39,14 +39,14 @@ and so on...).
 
 ## Usage
 
-    1. Start the App.
+    1. Start the App on your PC.
       $ npm start [Enter]
     2. Access from the Web browser(Chrome or firefox).
       http://localhost:8080/
 
 ## Contribution
 
-1. I need a free font (Make an 8-bit font, please).
+1. ~~I need a free font (Make an 8-bit font, please).~~ ![png](public/img/documents/misaki_gothic_ASCII_katakana.png)
 1. I need a free character (Make an 8-bit free character like Mario, please).
 
 ## Licence
