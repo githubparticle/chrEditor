@@ -34,7 +34,7 @@ export default class CanvasComponent extends React.Component {
 
 
   componentDidMount(props){ this.updateCanvas(props); }
-  componentWillReceiveProps( nextProps ) { if ( this.props !== nextProps ) { this.updateCanvas(this.props); } }
+  UNSAFE_componentWillReceiveProps( nextProps ) { if ( this.props !== nextProps ) { this.updateCanvas(this.props); } }
   componentDidUpdate(props){ this.updateCanvas(props); }
 
 
